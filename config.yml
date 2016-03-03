@@ -1,0 +1,3 @@
+loggingLevel: DEBUG
+listenAddress: ':8080'
+webroot: '/Users/paulcrofts/Documents/go/src/github.com/margic/pihexui/dist/prod'
